@@ -1,0 +1,1 @@
+-freq 144 -full -w 1440 -h 1080 -console -novid -nohigh -nojoy -tickrate 128 -heapsize 4194304 -language textmodorel
