@@ -1,4 +1,4 @@
-# csgo-configs
+# DROPSLAYS CS:GO Configs
 A repository of my personal configs, scripts, and settings for CS:GO.
 
 ###Contents
